@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Blue T-Shirt",
+    "price": 25,
+    "image": "./assets/images/products/shirt1.jpg",
+    "stock": 12,
+    "description": "Comfortable cotton tee."
+  },
+  {
+    "id": 2,
+    "name": "Red Hoodie",
+    "price": 45,
+    "image": "./assets/images/products/hoodie1.jpg",
+    "stock": 0,
+    "description": "Warm hoodie for cold days."
+  },
+  {
+    "id": 3,
+    "name": "Running Sneakers",
+    "price": 79,
+    "image": "./assets/images/products/shoe1.jpg",
+    "stock": 7,
+    "description": "Lightweight running shoes."
+  },
+  {
+    "id": 4,
+    "name": "Denim Jacket",
+    "price": 99,
+    "image": "./assets/images/products/jacket1.jpg",
+    "stock": 3,
+    "description": "Stylish denim jacket."
+  },
+  {
+    "id": 5,
+    "name": "Black Jeans",
+    "price": 59,
+    "image": "./assets/images/products/jeans1.jpg",
+    "stock": 5,
+    "description": "Slim fit black jeans."
+  },
+  {
+    "id": 6,
+    "name": "Sports Cap",
+    "price": 15,
+    "image": "./assets/images/products/cap1.jpg",
+    "stock": 20,
+    "description": "Breathable sports cap."
+  }
+]
